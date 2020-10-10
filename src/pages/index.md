@@ -1,6 +1,6 @@
 ---
 templateKey: index-page
-title: Great coffee with a conscience
+title: We specialize in driving your brand forward. Your Goals. Our Strategy.
 image: /static/img/hero_home1.png
 heading: We specialize in driving your brand forward. Your Goals. Our Strategy.
 subheading: We are a high-powered group of bold, passionate strategic thinkers
